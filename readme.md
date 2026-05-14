@@ -67,3 +67,4 @@ For students:
 Refs:
 - [安装vscode](https://zhuanlan.zhihu.com/p/698865320)：常用的开发工具
 - [安装anaconda](https://blog.csdn.net/weixin_43828245/article/details/124768518)：常用的环境管理工具
+- [python-for-ai](https://gitee.com/javywang/python-for-ai): 本课程的gitee版本（方便国内访问）
